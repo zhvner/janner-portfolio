@@ -58,7 +58,15 @@ const Navbar = () => {
               } hover:text-white text-[18px] font-medium cursor-pointer`}
               onClick={() => setActive(nav.title)}
             >
-              <a href={`#${nav.id}`}>{nav.title}</a>
+              {nav.url ? (
+                // If the nav item has a URL, open it in a new tab
+                <a href={nav.url} target="_blank" rel="noopener noreferrer">
+                  {nav.title}
+                </a>
+              ) : (
+                // Otherwise, use internal navigation
+                <a href={`#${nav.id}`}>{nav.title}</a>
+              )}
             </li>
           ))}
         </ul>

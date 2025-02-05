@@ -21,7 +21,6 @@ import {
   shopify,
   carrent,
   jobit,
-  tripguide,
   threejs,
   BB,
   EML,
@@ -51,6 +50,11 @@ export const navLinks = [
   {
     id: "portfolio",
     title: "Portfolio",
+  },
+  {
+    id: "linkedin",
+    title: "LinkedIn",
+    url: "https://www.linkedin.com/in/zhanerke-zhumash1/", // Replace with your actual LinkedIn profile URL
   },
 ];
 

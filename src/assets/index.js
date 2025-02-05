@@ -35,7 +35,6 @@ import UBC from "./company/ubc.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 import stat301 from "./stat301.png"
 import cpsc210 from "./ecowardrobe.png"
 import visiontrack from "./visiontrack.png"
@@ -73,7 +72,6 @@ export {
   tesla,
   carrent,
   jobit,
-  tripguide,
   BB,
   EML,
   URO,
