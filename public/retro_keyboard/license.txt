@@ -1,0 +1,11 @@
+Model Information:
+* title:	Retro Keyboard
+* source:	https://sketchfab.com/3d-models/retro-keyboard-76aa2c3361e9471cb62b4b7fee5ecce8
+* author:	gozdemrl (https://sketchfab.com/gozdemrl)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Retro Keyboard" (https://sketchfab.com/3d-models/retro-keyboard-76aa2c3361e9471cb62b4b7fee5ecce8) by gozdemrl (https://sketchfab.com/gozdemrl) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
