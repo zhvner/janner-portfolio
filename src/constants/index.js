@@ -34,7 +34,8 @@ import {
   visiontrack,
   fitnomic,
   forestar,
-  cpsc330
+  cpsc330,
+  WL
 
 } from "../assets";
 
@@ -401,7 +402,36 @@ const projects = [
     "demo_link": "https://needle-engine-forestspaces-638290901395762811.netlify.app/",
     "figma_link": "https://www.figma.com/design/DTYz2ItuUNHO4s6usupCLP/MVP-wireflow-Forest-Bathing-App?node-id=0-1&t=oy93gQPnuyRpA7w2-1",
     "medium_link": "https://eml.ubc.ca/projects/virtual-therapeutic-landscapes/"
-  }
+  },
+  {
+    "name": "Climate Database Optimization",
+    "description": "A data-driven research initiative focused on processing and analyzing large-scale climate datasets, leveraging cloud computing and geospatial analytics for sustainability research.",
+    "tags": [
+      {
+        "name": "big-data",
+        "color": "blue-text-gradient"
+      },
+      {
+        "name": "cloud-computing",
+        "color": "green-text-gradient"
+      },
+      {
+        "name": "google-earth-engine",
+        "color": "pink-text-gradient"
+      },
+      {
+        "name": "GCP",
+        "color": "green-text-gradient"
+      },
+      {
+        "name": "summer2024",
+        "color": "green-text-gradient"
+      }
+    ],
+    "image": WL,
+    "source_code_link": "https://github.com/zhvner/worklearn-database-optimization",
+}
+
 ];
 
 export { services, technologies, experiences, testimonials, projects };

@@ -42,6 +42,7 @@ import visiontrack from "./visiontrack.png"
 import fitnomic from "./fitnomic.jpg"
 import forestar  from "./forestar.png"
 import cpsc330 from "./cpsc330.png"
+import WL from "./WL.webp"
 
 
 export {
@@ -85,5 +86,6 @@ export {
   fitnomic,
   medium,
   forestar,
-  cpsc330
+  cpsc330,
+  WL
 };
