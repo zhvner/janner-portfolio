@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kazakhstan
+* source:	https://sketchfab.com/3d-models/kazakhstan-9df63f6ee39a4cf7949e1509a98d300a
+* author:	Joker Boss (https://sketchfab.com/jokerrr.boss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kazakhstan" (https://sketchfab.com/3d-models/kazakhstan-9df63f6ee39a4cf7949e1509a98d300a) by Joker Boss (https://sketchfab.com/jokerrr.boss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
