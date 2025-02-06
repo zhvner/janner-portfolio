@@ -20,7 +20,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
           {/* Engineering cloud-based data platforms, automate pipelines, and deliver high-impact solutions for big data ecosystems. <br className='sm:block hidden' /> */}
-          An Applied Math and Data Science Student. Aspiring Professional in Engineering and Finance. International KMILOT Scholar. Amateur Snowboarder. Curious Creative. Looking for Summer/Fall'25 opportunities.
+          An Applied Math and Data Science Student. Aspiring Professional in Engineering. International KMILOT Scholar. Amateur Snowboarder. Curious Creative. Looking for Summer/Fall'25 opportunities.
             
           </p>
 

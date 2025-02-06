@@ -70,7 +70,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        As a full-ride Vantage Excellence scholar at UBC, I’ve built not just data pipelines and cloud solutions but also connections—mentoring peers, leading research, and shaping a vibrant tech community. 🎨💡
+        As a full-ride KMILOT scholar at UBC, I’ve built not just data pipelines and cloud solutions but also connections—mentoring peers, leading research, and shaping a vibrant tech community. 🎨💡
        
       </motion.p>
 

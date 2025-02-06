@@ -34,7 +34,8 @@ import {
   fitnomic,
   forestar,
   cpsc330,
-  WL
+  WL,
+  poster
 
 } from "../assets";
 
@@ -239,6 +240,34 @@ const testimonials = [
 
 const projects = [
   {
+    "name": "Climate Database Optimization",
+    "description": "A data-driven research initiative focused on processing and analyzing large-scale climate datasets, leveraging cloud computing and geospatial analytics for sustainability research.",
+    "tags": [
+      {
+        "name": "big-data",
+        "color": "blue-text-gradient"
+      },
+      {
+        "name": "cloud-computing",
+        "color": "green-text-gradient"
+      },
+      {
+        "name": "google-earth-engine",
+        "color": "pink-text-gradient"
+      },
+      {
+        "name": "GCP",
+        "color": "green-text-gradient"
+      },
+      {
+        "name": "summer2024",
+        "color": "green-text-gradient"
+      }
+    ],
+    "image": WL,
+    "source_code_link": "https://github.com/zhvner/worklearn-database-optimization",
+},
+  {
     "name": "STAT301: Statistical Modelling of University Rankings",
     "description": "An in-depth statistical analysis of university rankings using Multiple Linear Regression (MLR) to examine the impact of research score, student-to-staff ratio, and international student percentage on overall scores.",
     "tags": [
@@ -408,33 +437,29 @@ const projects = [
     "medium_link": "https://eml.ubc.ca/projects/virtual-therapeutic-landscapes/"
   },
   {
-    "name": "Climate Database Optimization",
-    "description": "A data-driven research initiative focused on processing and analyzing large-scale climate datasets, leveraging cloud computing and geospatial analytics for sustainability research.",
+    "name": "LSTM Rainfall-Runoff Modeling",
+    "description": "Deep learning-based hydrological modeling to analyze catchment complexity and streamflow predictions across North America.",
     "tags": [
       {
-        "name": "big-data",
+        "name": "research",
         "color": "blue-text-gradient"
       },
       {
-        "name": "cloud-computing",
+        "name": "sustainability",
         "color": "green-text-gradient"
       },
       {
-        "name": "google-earth-engine",
+        "name": "machine-learning",
         "color": "pink-text-gradient"
       },
       {
-        "name": "GCP",
+        "name": "conference",
         "color": "green-text-gradient"
       },
-      {
-        "name": "summer2024",
-        "color": "green-text-gradient"
-      }
     ],
-    "image": WL,
-    "source_code_link": "https://github.com/zhvner/worklearn-database-optimization",
-}
+    "image": poster,
+    "demo_link": "https://drive.google.com/file/d/1X0DOIG1_Xjj9hH-JmEJZ3PbhwPUo0MfX/view?usp=sharing",
+  }
 
 ];
 

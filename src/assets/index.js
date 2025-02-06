@@ -42,6 +42,7 @@ import fitnomic from "./fitnomic.jpg"
 import forestar  from "./forestar.png"
 import cpsc330 from "./cpsc330.png"
 import WL from "./WL.webp"
+import poster from "./poster.jpeg"
 
 
 export {
@@ -85,5 +86,6 @@ export {
   medium,
   forestar,
   cpsc330,
-  WL
+  WL,
+  poster
 };
