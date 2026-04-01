@@ -51,7 +51,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        From 🇰🇿 Kazakhstan to 🇨🇦 Canada, my journey has been like crafting a mosaic—blending math, data, and creativity into something meaningful. 🧩 
+  From Kazakhstan to Canada, my journey has been a mix of math, data, and creativity all coming together.
       </motion.p>
 
 
@@ -70,7 +70,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        As a full-ride KMILOT scholar at UBC, I’ve built not just data pipelines and cloud solutions but also connections—mentoring peers, leading research, and shaping a vibrant tech community. 🎨💡
+  I'm a full-ride  scholar at UBC, and beyond building data pipelines and cloud solutions, I've been mentoring peers, leading research, and helping grow a tech community I actually care about.
        
       </motion.p>
 
@@ -78,7 +78,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Passionate about technology that drives positive change, I explore sustainability through data-driven solutions, whether optimizing cloud efficiency or tackling environmental challenges.
+  I'm into technology that actually makes a difference, optimizing cloud efficiency, working on sustainability problems, finding ways data can help with real environmental challenges.
       </motion.p>
 
       <div className='flex justify-center  items-center mt-5 h-[400px] w-full'>
@@ -89,7 +89,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-      Now, as I seek Engineering roles for Summer and Fall 2025, I’m ready to design, build, and innovate—turning ideas into impactful, sustainable solutions. Let’s create something amazing together! 🚀
+  I'm looking for Engineering roles for Summer and Fall 2026, and I'm genuinely excited to build things that matter. Let's make something great.
       </motion.p>
 
       

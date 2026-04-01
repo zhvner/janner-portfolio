@@ -135,39 +135,23 @@ const technologies = [
 
 const experiences = [
   {
-    title: "AR Developer / Project Manager",
+    title: "Project Manager",
     company_name: "UBC Emerging Media Lab (EML)",
     icon: EML,
     iconBg: "#383E56",
     date: "May 2023 - Sep 2023",
     points: [
-      "🎤 Presented an interactive web prototype to 150 attendees at the EML Summer Showcase, earning 87% user satisfaction.",
-      "🌲 Co-developed Forestar, a web app for self-guided forest bathing, tackling mobility & accessibility challenges.",
-      "🔍 Integrated AR, Agile, and UX strategies to enhance sensory focus, using React, TypeScript, MongoDB, and Unity.",
-      "📝 Created clear, concise documentation to support development, deployment, and user onboarding, scalability and enhancements."
+     
     ],
   },
   {
-    title: "Data Engineering/ML Research Fellow",
+    title: "Research Fellow",
     company_name: "Research EXperience (REX) Fellowship",
     icon: URO,
     iconBg: "#90EE90",
     date: "Oct 2023 - May 2024",
     points: [
-      "💧 Built a data pipeline for global waterflow research, processing 100K+ records across 10 countries (Scikit-Learn, Pandas, Matplotlib, NumPy)",
-      "📊 Presented data-driven insights at MURC, translating complex research into clear, engaging visualizations."
-    ],
-  },
-  {
-    title: "Quantitative Analyst",
-    company_name: "UBC Trading Group",
-    icon: TG,
-    iconBg: "#E6DEDD",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "📈 Boosted membership engagement by 32% through a data-driven market analysis framework.",
-      "🔢 Applied statistical modeling (t-test, logistic regression, KS-test, KL-divergence) in STATA, achieving 95% accuracy on financial data.",
-      "🚀 Engaged in entrepreneurial discussions, exploring innovation, startups, and market trends."
+     
     ],
   },
   {
@@ -177,11 +161,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "May 2024 - Aug 2024",
     points: [
-      "🚀 Deployed ML model endpoints (Python, Spark, Terraform), automating 10+ ETL pipelines for 200+ users via Databricks API.",
-      "⚡ Built monitoring pipelines (Python, SQL-Alert) to debug clusters, cutting cloud costs by 28% (Databricks, AWS).",
-      "🔐 Optimized SQL schemas for 1M+ cybersecurity logs, boosting query performance by 35% (MySQL, scalable storage)",
-      "🤝 Engaged with customers to gather feedback, ensuring data solutions met real-world needs",
-      "📢 Communicated technical insights in user-friendly terms, enhancing adoption across teams."
+      
       
     ],
   },
@@ -192,23 +172,21 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2024 - Sep 2024",
     points: [
-      "🌱 Developed a time-series database for tree growth metrics across Canadian ecoregions (Python, ArcGIS).",
-      "📊 Adapted a degree-day model from Dr. Josephine Gantois' US-based tree sustainability research.",
-      "⚡ Processed 500K+ weather records (ERA5-Land) with Pandas, NumPy, Google Earth Engine, optimizing GCP workflows.",
+     
     ],
   },
   {
-    title: "Lead Tech Fellow",
+    title: " Tech Fellow",
     company_name: "Harvard WECode: Women Engineers Code Conference 2025",
     icon: HWC,
     iconBg: "#E6DEDD",
-    date: "Nov 2023 - Present",
+    date: "Nov 2024 - Feb 2025",
     points: [
-      "🎓 WECode Scholar & Fellow, recognized for leadership and contributions to tech diversity.",
-      "🌍 Leading a team of 5 fellows, directing virtual series on professional development & digital media.",
-      "🤝 Strengthening US-Canada student connections through outreach and peer engagement at UBCV.",
+     
     ],
   },
+
+  
 ];
 
 const testimonials = [
